@@ -48,9 +48,9 @@
     color: white;
     text-decoration: none;
 }
-.nav-links li a:hover{
+/* .nav-links li a:hover{
     color:rgb(233, 150, 41);
-}
+} */
 #hero{
     height: 100vh;
     background: url("premium_photo-1682092585257-58d1c813d9b4.avif") no-repeat center center/cover;
