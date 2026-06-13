@@ -151,20 +151,19 @@
     color:rgb(233, 150, 41) ;
 }
 .projects .card .content{
-    width:5rem;
+    width:100%;
 }
 
 .projects .card .image{
     height:10rem;
-    width:15rem;
+    width:17rem;
     /* margin-bottom: 1rem; */
 }
 
 .projects .card .image img{
     border-radius: 1rem;
     height:8rem;
-    position :cover;
-
+    object-fit :cover;
 }
 
 #gallery{
