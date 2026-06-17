@@ -167,6 +167,10 @@
     position: absolute;
     bottom: 1px;
 } */
+.projects .card:hover{
+    scale: 0.97;
+    cursor: pointer;
+}
 .projects .card h2{
     font-size: 1.5rem;
     margin: 1rem 0rem;
