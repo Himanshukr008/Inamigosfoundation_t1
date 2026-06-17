@@ -183,15 +183,15 @@
     /* margin-bottom: 1rem; */
 }
 .projects .card .image .info{
-        padding: 4px 10px;
-        position: absolute;
-        right: 1rem;
-        top: 1rem;
-        background-color: rgb(240, 237, 234);
-        color: black;
-        border-radius: 1rem;
-        font-weight: 500;
-    }
+    padding: 4px 10px;
+    position: absolute;
+    right: 1rem;
+    top: 1rem;
+    background-color: rgb(240, 237, 234);
+    color: black;
+    border-radius: 1rem;
+    font-weight: 500;
+}
 
 .projects .card .image img{
     border-radius: 1rem;
